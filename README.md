@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Toufik Deshmukh
 
-### BTech Artificial Intelligence & Machine Learning
+### Final-Year BTech Artificial Intelligence & Machine Learning Student
 
 **AI & Machine Learning • Generative AI • Computer Vision • Full-Stack Development**
 
@@ -21,11 +21,11 @@
 
 ## 🚀 About Me
 
-I'm a **BTech Artificial Intelligence & Machine Learning undergraduate at MGM University**, interested in building practical software and AI-powered applications.
+I'm a **Final-Year BTech Artificial Intelligence & Machine Learning student** passionate about building practical software and AI-powered applications.
 
 My work focuses on combining **AI, Generative AI, Computer Vision, web technologies, and APIs** to turn ideas into working applications.
 
-* 🎓 BTech AIML — MGM University
+* 🎓 Final-Year BTech AIML Student
 * 🤖 Interested in AI, ML, Generative AI & Computer Vision
 * 💻 Building AI-powered web and software projects
 * 🔗 Working with REST APIs and backend technologies
@@ -90,7 +90,7 @@ My work focuses on combining **AI, Generative AI, Computer Vision, web technolog
 
 **Tech:** React • JavaScript • Generative AI • APIs • Computer Vision
 
-🔗 [View Project](https://github.com/toufikDeshmu/Sketch-To-Code-FYP)
+🔒 **Private Repository**
 
 </td>
 
@@ -102,7 +102,7 @@ My work focuses on combining **AI, Generative AI, Computer Vision, web technolog
 
 **Tech:** Python • Flask • APIs • HTML • CSS • JavaScript
 
-🔒 [Private Repository](https://github.com/toufikDeshmu/City-Palace-Museum-Website)
+🔒 **Private Repository**
 
 </td>
 </tr>
@@ -172,38 +172,17 @@ My work focuses on combining **AI, Generative AI, Computer Vision, web technolog
 
 ---
 
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=toufikDeshmu&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
 # 🏆 Achievements & Certifications
 
 * 🏅 **Smart India Hackathon (SIH)** — Participant
 * 🤖 **Infosys Springboard** — Introduction to Artificial Intelligence
 * 📜 **NPTEL Certification**
-* 🎓 **BTech Artificial Intelligence & Machine Learning** — MGM University
 
 ---
 
 # 🎯 Current Focus
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning & Deep Learning
-        ↓
-Generative AI + Computer Vision
-        ↓
-AI-Powered Applications
-        ↓
-Full-Stack Development
-```
+**Artificial Intelligence • Machine Learning • Generative AI • Computer Vision • Full-Stack Development • Cloud Technologies**
 
 I'm currently focused on building **practical AI applications** and strengthening my skills across AI, software development, APIs, and cloud technologies.
 
