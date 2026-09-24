@@ -160,15 +160,31 @@ My work focuses on combining **AI, Generative AI, Computer Vision, web technolog
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufikDeshmu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=toufikDeshmu&show_icons=true&hide_border=true&count_private=true" height="170">
+<p align="center">
+  <a href="https://github.com/toufikDeshmu?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufikDeshmu&layout=compact&hide_border=true" height="170">
+### 🔎 What I Work With
 
-</div>
+| Area           | Technologies                                             |
+| -------------- | -------------------------------------------------------- |
+| 🤖 AI          | Artificial Intelligence, Machine Learning, Generative AI |
+| 👁️ Vision     | Computer Vision, OpenCV                                  |
+| 💻 Development | Python, Java, C++, C#, JavaScript                        |
+| 🌐 Web         | React, Flask, FastAPI, HTML, CSS                         |
+| 🗄️ Data       | SQL, MySQL                                               |
+| 📱 Mobile      | Flutter, Dart                                            |
+| 🔗 APIs        | REST APIs, Gemini API                                    |
+| 🛠️ Tools      | Git, GitHub, VS Code                                     |
+
 
 ---
 
