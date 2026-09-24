@@ -162,15 +162,17 @@ My work focuses on combining **AI, Generative AI, Computer Vision, web technolog
 
 # 📊 GitHub Overview
 
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufikDeshmu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=toufikDeshmu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufikDeshmu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/toufikDeshmu?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toufikDeshmu&theme=tokyonight&hide_border=true" width="70%" />
 </p>
+
 
 ### 🔎 What I Work With
 
